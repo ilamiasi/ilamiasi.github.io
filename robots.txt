@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ilamiasi.github.io/LcN/sitemap_index.txt
+Sitemap: https://ilamiasi.github.io/ctY/sitemap_index.txt
+Sitemap: https://ilamiasi.github.io/mCi/sitemap_index.txt
+Sitemap: https://ilamiasi.github.io/wNF/sitemap_index.txt
